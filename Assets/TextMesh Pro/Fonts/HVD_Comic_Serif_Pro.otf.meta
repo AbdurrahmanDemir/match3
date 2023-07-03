@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 247ca5f30aeb0f94aa8f9fab25d05cd8
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - HVD Comic Serif Pro
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 4d3424f3de39c7c4fab1deac1872d3b1, type: 3}
+  - {fileID: 12800000, guid: f88bf46c896d1e14fbffb86b13844fcd, type: 3}
+  - {fileID: 12800000, guid: 3c68fa6435fed6949b69739c7e95c878, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

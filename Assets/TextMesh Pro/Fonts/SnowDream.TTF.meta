@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: efd56f1c87bec20469c0b5fe556b7b49
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - SnowDream
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 9d10fbcefcd57d14faca71a5eae6f080, type: 3}
+  - {fileID: 12800000, guid: d00e47c27124c9a49b08808eb6f3d892, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
